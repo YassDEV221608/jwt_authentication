@@ -1,0 +1,1 @@
+curl -X POST -d "{'firstname':'yassine','lastname':'laamiri','emailId':'groomecommercema@gmail.com','guardian':{'name':'meryem','email':'jelffa.meryem@student.emi.ac.ma','mobile','06788680'}}" -H "Content-type: application/json" "localhost:8080/api/v1/students/save"                  

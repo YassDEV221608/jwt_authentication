@@ -1,0 +1,1 @@
+to run your jar app : java -jar jarname.jar --spring.profiles.active=prod
